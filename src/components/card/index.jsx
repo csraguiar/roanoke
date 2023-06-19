@@ -1,4 +1,5 @@
 import React from 'react';
+import './card.css'
 
 const Card = ({ heading, description, buttonText, footnote }) => (
   <div className="card flex flex-col justify-items-center md:h-96 bg-card-ornament space-y-2.5 p-8 bg-roa text-neutral-100 rounded-xl text-center mb-8">

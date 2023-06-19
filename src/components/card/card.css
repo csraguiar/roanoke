@@ -1,0 +1,10 @@
+.card {
+  box-shadow: 0px 1px 0px #734218, 0px 1px 3px #CEC1C1, inset 0px 1px 0px #FFFFFF;
+  background-repeat: no-repeat;
+  background-position: center 2rem, center center;
+}
+
+.card h1 {
+  font-variant: all-small-caps;
+  font-feature-settings: 'pnum' on, 'onum' on;
+}
