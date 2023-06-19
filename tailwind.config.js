@@ -15,10 +15,9 @@ export default {
       'black': colors.black,
       'red': colors.red,
       'tomato': colors.tomato,
+      'amber': colors.amber,
       'roa': '#EBE5DB',
       'noke': '#D1DCD9',
-      'neutral-100': '#2F2C2C',
-      'neutral-0': '#fefdfd',
       'emerald': colors.emerald
     }
   },
