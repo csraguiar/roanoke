@@ -23,6 +23,7 @@ function App() {
           description={"Grants +2/+2 to a target creature and makes it immune to magic spells."}
           buttonText={"Use"} 
           footnote={"Mana Cost: 3 (3 Any)"}
+          featured="true"
         />
       </li>
       <li>
