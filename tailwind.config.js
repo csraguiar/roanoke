@@ -11,13 +11,15 @@ export default {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-      'white': colors.white,
-      'black': colors.black,
+      'white': "#fff",
+      'black': "#000",
+      'zinc': colors.zinc,
       'red': colors.red,
       'tomato': colors.tomato,
       'amber': colors.amber,
       'roa': '#EBE5DB',
       'noke': '#D1DCD9',
+      'gold': '#F5E6C7',
       'emerald': colors.emerald
     }
   },
